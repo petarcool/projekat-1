@@ -1,1 +1,20 @@
+body {
+    font-family: sans-serif;
+}
 
+h1 {
+    background-color: limegreen;
+    padding: 10px;
+}
+
+img {
+    height: 200px;
+}
+
+p, ul {
+    font-size: 20px;
+}
+
+ul{
+    list-style:url("/uploads/2021/01/%D0%BD%D0%BE%D1%82%D0%B0_0_1610638133.svg");
+}
